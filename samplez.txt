@@ -1,0 +1,5 @@
+This is a sample File
+It contains some lines
+It contains some words
+It contains some characters
+It contains some repeated words
