@@ -77,9 +77,9 @@ class Graph {
                 echo " -> ";
             }
         }
-        echo "\n";
-        echo "Total distance: " . $distances[$destination] . "km\n";
-        echo "\n";
+        echo "<br>";
+        echo "Total distance: " . $distances[$destination] . "km<br>";
+        echo "<br>";
     }
 
     // Helper function to get city name based on index
